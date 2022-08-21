@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use App\Models\Parfum;
 use App\Models\Brand;
 use App\Models\Category;
-use App\Models\Admin;
+
 
 class adminController extends Controller
 {

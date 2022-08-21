@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Parfum;
 use App\Models\Brand;
-use App\Models\Category;
+
 
 
 class adminController extends Controller
